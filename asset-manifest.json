@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29553ded.css",
+    "main.js": "/static/js/main.9aee0329.js",
+    "static/js/787.d932ccde.chunk.js": "/static/js/787.d932ccde.chunk.js",
+    "static/media/forsidehunde.jpg": "/static/media/forsidehunde.7705df91adc518d9e9ee.jpg",
+    "static/media/kvindeoghund.jpg": "/static/media/kvindeoghund.1b2ab2db924d8cde5e92.jpg",
+    "index.html": "/index.html",
+    "main.29553ded.css.map": "/static/css/main.29553ded.css.map",
+    "main.9aee0329.js.map": "/static/js/main.9aee0329.js.map",
+    "787.d932ccde.chunk.js.map": "/static/js/787.d932ccde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29553ded.css",
+    "static/js/main.9aee0329.js"
+  ]
+}
